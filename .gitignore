@@ -3,6 +3,8 @@
 
 # ignore ALL files in ANY directory named DATA, ARCHIVE, or figures (scanpy figure dump)
 DATA/
+__pycache__/
+model_graph
 ARCHIVE/
 RESULTS/
 figures/
